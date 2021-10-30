@@ -1,0 +1,19 @@
+[class *= "col"]{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    border: 1px solid white;
+}
+.testo{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.testo-in-testo{
+    background-color: green;
+    margin: 4px 4px;
+}
+#margin-center{
+    margin-top: 100px;
+}
